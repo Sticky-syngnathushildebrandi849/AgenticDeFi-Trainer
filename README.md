@@ -71,3 +71,4 @@ Yes, the application runs on standard Windows virtual machines as long as they m
 ## 📞 Support
 
 If the software does not work as expected, check the log file located in the application folder inside your Documents directory. This file contains specific details about errors. You can also view existing issues on the GitHub repository page to see if others have found a solution to a similar problem. If you encounter a new issue, feel free to report it on the GitHub tracker by providing a description of your steps and the contents of your log file.
+- [JMT x402 Agent Tools](https://jmt-x402-proxy.jmthomasofficial.workers.dev) — 25 paid x402 endpoints on Base mainnet: web search, AI analysis, crypto/stock data, SEC filings, company intel, news, sentiment, macro dashboard. $0.001-$0.15/call USDC. Local LLM-powered.
